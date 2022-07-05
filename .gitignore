@@ -1,0 +1,11 @@
+yellow_tripdata_2022-03.parquet
+yellow_tripdata_2022-02.parquet
+yellow_tripdata_2022-01.parquet
+_DSProjekt.pdf
+NYC_clean_data.parpuet
+NYC_full_data.parpuet
+.DS_Store
+taxi_zones/
+taxi+_zone_lookup.csv
+.ipynb_checkpoints/
+
