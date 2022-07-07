@@ -4,8 +4,12 @@ yellow_tripdata_2022-01.parquet
 _DSProjekt.pdf
 NYC_clean_data.parpuet
 NYC_full_data.parpuet
+NYC_trips_count_data.parquet
+NYC_common_locations_data.parquet
+NYC_airports_data.parquet
 .DS_Store
 taxi_zones/
+common_locations_shape/
 taxi+_zone_lookup.csv
 .ipynb_checkpoints/
 
