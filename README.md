@@ -8,9 +8,14 @@ The goal was to learn the procedure for a Data Science project:
 - Validation of the data
 - What can I do with the data?
 - Analysis
-- Evaluation and ciritval view of the analysis
+- Evaluation and critical view of the analysis
 
 Specifications:
 - At least 1000 rows
 - Not more then 1 GB
 - Create a document with the findings (3-4 pages)
+
+Links to view Python Notebooks:
+- [Exploration](https://nbviewer.org/github/MarkusMueller-DS/NYC-Taxi-Trips/blob/main/NYC-Taxi-Exploration.ipynb)
+- [Visualizations](https://nbviewer.org/github/MarkusMueller-DS/NYC-Taxi-Trips/blob/main/NYC-Taxi-Visualizations.ipynb)
+- [Interactive Maps](https://nbviewer.org/github/MarkusMueller-DS/NYC-Taxi-Trips/blob/main/NYC-Taxi-Interactive.ipynb)
