@@ -1,6 +1,6 @@
 # Analyze NYC Yellow Taxi Trip Data
 
-[Taxi trips](plots/Locations_New_York.png)
+![Taxi trips](plots/Locations_New_York.png)
 
 This was a graded mini-project for the Database Technology class in the 4th semester.
 The goal was to learn the procedure for a Data Science project:
